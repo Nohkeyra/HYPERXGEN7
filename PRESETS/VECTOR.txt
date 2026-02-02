@@ -1,0 +1,155 @@
+
+[
+  {
+    "id": "hx-v1",
+    "type": "vector",
+    "category": "Signature Vector",
+    "name": "Omega Lattice",
+    "description": "Ultra-dense geometric interconnection, high-frequency vector detail.",
+    "prompt": "[GLOBAL_DESIGN_LOCK]: Constructed geometry, mathematical precision, intentional composition. [VECTOR_LAYER]: Flat solid fills only, isolated subject, minimalist geometry, thick uniform strokes, no gradients. [SPATIAL_LAYER]: Symmetrical tessellation, repeated structures, maintain absolute spatial consistency. [COLOR_LAYER]: High-contrast palette, no shading or lighting effects. [OUTPUT_CONSTRAINT]: Rasterized image in PNG format. Maintain edge sharpness, clarity, and proportions. [SUBJECT]: Ultra-dense geometric interconnection. High-frequency vector detail forming an intricate lattice structure."
+  },
+  {
+    "id": "hx-v2",
+    "type": "vector",
+    "category": "Signature Vector",
+    "name": "Prism Void",
+    "description": "Refractive geometric deconstruction with spectral light dispersion.",
+    "prompt": "[GLOBAL_DESIGN_LOCK]: Constructed geometry, mathematical precision, intentional composition. [VECTOR_LAYER]: Flat solid fills only, isolated subject, minimalist geometry, thick uniform strokes, no gradients. [SPATIAL_LAYER]: Symmetrical tessellation, repeated structures, maintain absolute spatial consistency. [COLOR_LAYER]: High-contrast palette, no shading or lighting effects. [OUTPUT_CONSTRAINT]: Rasterized image in PNG format. Maintain edge sharpness, clarity, and proportions. [SUBJECT]: Refractive geometric deconstruction. Spectral light dispersion rendered as hard-edged solid color blocks."
+  },
+  {
+    "id": "circuit_weave",
+    "type": "vector",
+    "category": "High-Tech Systems",
+    "name": "Circuit Weave",
+    "description": "PCB-inspired vector pathways with right-angle logic, dense signal routing, and engineered spacing. Clean, technical, and hyper-structured.",
+    "prompt": "Circuit board vector art style, right-angle paths, PCB trace logic, dense signal routing, sharp corners, clean geometry, high contrast, flat vector design --no curves, noise, gradients"
+  },
+  {
+    "id": "broken_symmetry",
+    "type": "vector",
+    "category": "Experimental Geometry",
+    "name": "Broken Symmetry",
+    "description": "Strict geometric grids disrupted by intentional offsets and rule-breaking alignment. Precision meets controlled chaos.",
+    "prompt": "Abstract geometric vector grid, near-perfect symmetry with intentional misalignment, offset shapes, controlled disorder, minimal palette, flat vector composition --no realism, texture"
+  },
+  {
+    "id": "velocity_lines",
+    "type": "vector",
+    "category": "Motion Illusion",
+    "name": "Velocity Lines",
+    "description": "Directional streaks and tapered vector lines that imply speed, motion, and acceleration in a static frame.",
+    "prompt": "Dynamic velocity line vector art, directional streaks, tapered strokes, motion illusion, sharp flow lines, high contrast, flat vector style --no blur, 3D, gradients"
+  },
+  {
+    "id": "concrete_grid",
+    "type": "vector",
+    "category": "Brutalist Design",
+    "name": "Concrete Grid",
+    "description": "Heavy block-based layouts inspired by brutalist architecture. Uneven spacing, harsh edges, raw structure.",
+    "prompt": "Brutalist vector grid, heavy rectangular blocks, uneven spacing, architectural composition, raw industrial design, flat vector aesthetic --no curves, softness"
+  },
+  {
+    "id": "logo_scaffold",
+    "type": "vector",
+    "category": "Brand Frameworks",
+    "name": "Logo Scaffold",
+    "description": "Visible construction lines, alignment guides, and proportional systems for logo and identity exploration.",
+    "prompt": "Logo construction vector framework, visible guides, alignment grids, proportional systems, clean geometry, design scaffold style --no textures, decoration"
+  },
+  {
+    "id": "biome_circuit",
+    "type": "vector",
+    "category": "Organic-Tech Hybrid",
+    "name": "Biome Circuit",
+    "description": "Organic flowing forms behaving like circuitry. Natural curves fused with synthetic logic.",
+    "prompt": "Organic circuit vector art, flowing biomechanical lines, tech-organic fusion, smooth curves with logical structure, flat vector design --no realism, shading"
+  },
+  {
+    "id": "v1",
+    "type": "vector",
+    "category": "Geometry Presets",
+    "name": "Triangle Burst",
+    "description": "Evolve triangles into abstract patterns, dynamic movement, sharp edges.",
+    "prompt": "[GLOBAL_DESIGN_LOCK]: Constructed geometry, mathematical precision, intentional composition. [VECTOR_LAYER]: Flat solid fills only, isolated subject, minimalist geometry, thick uniform strokes, no gradients. [SPATIAL_LAYER]: Symmetrical tessellation, repeated structures, maintain absolute spatial consistency. [COLOR_LAYER]: High-contrast palette, no shading or lighting effects. [OUTPUT_CONSTRAINT]: Rasterized image in PNG format. Maintain edge sharpness, clarity, and proportions. [SUBJECT]: Abstract pattern evolving from triangles. Dynamic movement, sharp edges, and geometric shards."
+  },
+  {
+    "id": "v2",
+    "type": "vector",
+    "category": "Geometry Presets",
+    "name": "Fractal Grid",
+    "description": "Intricate fractal geometry in a grid layout, recursive patterns, glowing lines.",
+    "prompt": "[GLOBAL_DESIGN_LOCK]: Constructed geometry, mathematical precision, intentional composition. [VECTOR_LAYER]: Flat solid fills only, isolated subject, minimalist geometry, thick uniform strokes, no gradients. [SPATIAL_LAYER]: Symmetrical tessellation, repeated structures, maintain absolute spatial consistency. [COLOR_LAYER]: High-contrast palette, no shading or lighting effects. [OUTPUT_CONSTRAINT]: Rasterized image in PNG format. Maintain edge sharpness, clarity, and proportions. [SUBJECT]: Intricate fractal geometry in a rigid grid layout. Recursive patterns with high-frequency geometric detail."
+  },
+  {
+    "id": "v3",
+    "type": "vector",
+    "category": "Geometry Presets",
+    "name": "Hexagon Bloom",
+    "description": "Organic expansion of hexagonal shapes, interconnected cells.",
+    "prompt": "[GLOBAL_DESIGN_LOCK]: Constructed geometry, mathematical precision, intentional composition. [VECTOR_LAYER]: Flat solid fills only, isolated subject, minimalist geometry, thick uniform strokes, no gradients. [SPATIAL_LAYER]: Symmetrical tessellation, repeated structures, maintain absolute spatial consistency. [COLOR_LAYER]: High-contrast palette, no shading or lighting effects. [OUTPUT_CONSTRAINT]: Rasterized image in PNG format. Maintain edge sharpness, clarity, and proportions. [SUBJECT]: Expansion of hexagonal shapes. Interconnected cells forming an organic but strictly geometric bloom."
+  },
+  {
+    "id": "v4",
+    "type": "vector",
+    "category": "Geometry Presets",
+    "name": "Modular Cubes",
+    "description": "Interlocking 3D cubes forming a larger structure, isometric perspective.",
+    "prompt": "[GLOBAL_DESIGN_LOCK]: Constructed geometry, mathematical precision, intentional composition. [VECTOR_LAYER]: Flat solid fills only, isolated subject, minimalist geometry, thick uniform strokes, no gradients. [SPATIAL_LAYER]: Symmetrical tessellation, repeated structures, maintain absolute spatial consistency. [COLOR_LAYER]: High-contrast palette, no shading or lighting effects. [OUTPUT_CONSTRAINT]: Rasterized image in PNG format. Maintain edge sharpness, clarity, and proportions. [SUBJECT]: Interlocking 3D cubes in isometric perspective. Modular construction with industrial precision."
+  },
+  {
+    "id": "v5",
+    "type": "vector",
+    "category": "Organic Forms",
+    "name": "Neural Pathways",
+    "description": "Flowing lines resembling neural networks, interconnected nodes.",
+    "prompt": "[GLOBAL_DESIGN_LOCK]: Constructed geometry, mathematical precision, intentional composition. [VECTOR_LAYER]: Flat solid fills only, isolated subject, minimalist geometry, thick uniform strokes, no gradients. [SPATIAL_LAYER]: Symmetrical tessellation, repeated structures, maintain absolute spatial consistency. [COLOR_LAYER]: High-contrast palette, no shading or lighting effects. [OUTPUT_CONSTRAINT]: Rasterized image in PNG format. Maintain edge sharpness, clarity, and proportions. [SUBJECT]: Flowing geometric lines resembling neural networks. Interconnected nodes with uniform stroke weight."
+  },
+  {
+    "id": "v6",
+    "type": "vector",
+    "category": "Organic Forms",
+    "name": "Bio-Lattice",
+    "description": "Cellular structures in a lattice arrangement, organic growth.",
+    "prompt": "[GLOBAL_DESIGN_LOCK]: Constructed geometry, mathematical precision, intentional composition. [VECTOR_LAYER]: Flat solid fills only, isolated subject, minimalist geometry, thick uniform strokes, no gradients. [SPATIAL_LAYER]: Symmetrical tessellation, repeated structures, maintain absolute spatial consistency. [COLOR_LAYER]: High-contrast palette, no shading or lighting effects. [OUTPUT_CONSTRAINT]: Rasterized image in PNG format. Maintain edge sharpness, clarity, and proportions. [SUBJECT]: Cellular structures in a lattice arrangement. Geometric organic growth with clean flat fills."
+  },
+  {
+    "id": "v19",
+    "type": "vector",
+    "category": "Organic Forms",
+    "name": "Mycelial Web",
+    "description": "Interconnected, filamentous network resembling fungal growth.",
+    "prompt": "[GLOBAL_DESIGN_LOCK]: Constructed geometry, mathematical precision, intentional composition. [VECTOR_LAYER]: Flat solid fills only, isolated subject, minimalist geometry, thick uniform strokes, no gradients. [SPATIAL_LAYER]: Symmetrical tessellation, repeated structures, maintain absolute spatial consistency. [COLOR_LAYER]: High-contrast palette, no shading or lighting effects. [OUTPUT_CONSTRAINT]: Rasterized image in PNG format. Maintain edge sharpness, clarity, and proportions. [SUBJECT]: Interconnected filamentous network. Fungal growth logic applied to minimalist geometric lines."
+  },
+  {
+    "id": "vi1",
+    "type": "vector",
+    "category": "Illustrative Vector Art",
+    "name": "Flat Vector Portrait",
+    "description": "Clean minimalist character with bold outlines, flat colors.",
+    "prompt": "[GLOBAL_DESIGN_LOCK]: Constructed geometry, mathematical precision, intentional composition. [VECTOR_LAYER]: Flat solid fills only, isolated subject, minimalist geometry, thick uniform strokes, no gradients. [SPATIAL_LAYER]: Symmetrical tessellation, repeated structures, maintain absolute spatial consistency. [COLOR_LAYER]: High-contrast palette, no shading or lighting effects. [OUTPUT_CONSTRAINT]: Rasterized image in PNG format. Maintain edge sharpness, clarity, and proportions. [SUBJECT]: Clean minimalist character portrait. Bold outlines, flat colors, and sharp geometric shadows."
+  },
+  {
+    "id": "vi3",
+    "type": "vector",
+    "category": "Illustrative Vector Art",
+    "name": "Corporate Memphis",
+    "description": "Modern editorial style with exaggerated proportions.",
+    "prompt": "[GLOBAL_DESIGN_LOCK]: Constructed geometry, mathematical precision, intentional composition. [VECTOR_LAYER]: Flat solid fills only, isolated subject, minimalist geometry, thick uniform strokes, no gradients. [SPATIAL_LAYER]: Symmetrical tessellation, repeated structures, maintain absolute spatial consistency. [COLOR_LAYER]: High-contrast palette, no shading or lighting effects. [OUTPUT_CONSTRAINT]: Rasterized image in PNG format. Maintain edge sharpness, clarity, and proportions. [SUBJECT]: Corporate Memphis style illustration. Exaggerated proportions and playful solid flat palettes."
+  },
+  {
+    "id": "vi16",
+    "type": "vector",
+    "category": "Illustrative Vector Art",
+    "name": "Graffiti Vector Art",
+    "description": "Clean vector wildstyle, sharp interlocking arrows, bold depth.",
+    "prompt": "[GLOBAL_DESIGN_LOCK]: Constructed geometry, mathematical precision, intentional composition. [VECTOR_LAYER]: Flat solid fills only, isolated subject, minimalist geometry, thick uniform strokes, no gradients. [SPATIAL_LAYER]: Symmetrical tessellation, repeated structures, maintain absolute spatial consistency. [COLOR_LAYER]: High-contrast palette, no shading or lighting effects. [OUTPUT_CONSTRAINT]: Rasterized image in PNG format. Maintain edge sharpness, clarity, and proportions. [SUBJECT]: Clean vector graffiti wildstyle. Sharp interlocking arrows and bold 3D geometric depth."
+  },
+  {
+    "id": "y2k1",
+    "type": "vector",
+    "category": "Y2K Acid Graphics",
+    "name": "Y2K Acid Graphics",
+    "description": "Chrome metal typography, tribal tattoo shapes, neon green palette.",
+    "prompt": "Vector Y2K acid graphics. Chrome metal style. Sharp jagged edges. Neon green & metallic silver. High contrast. PNG output."
+  }
+]

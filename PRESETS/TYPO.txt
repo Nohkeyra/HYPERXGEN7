@@ -1,0 +1,59 @@
+
+[
+  {
+    "id": "hx-ty1",
+    "type": "typography",
+    "category": "Signature Wordmarks",
+    "name": "Kinetic Pulse",
+    "description": "High-contrast dynamic wordmark with intentional geometric distortion.",
+    "prompt": "[GLOBAL_DESIGN_LOCK]: Constructed geometry, mathematical precision, intentional composition. [TYPOGRAPHY_LAYER]: Perfect kerning, single-line geometric letterforms, solid flat backgrounds, no gradients. [SPATIAL_LAYER]: Centered composition, absolute alignment, symmetry maintained. [COLOR_LAYER]: High-contrast palette, solid colors only. [OUTPUT_CONSTRAINT]: Rasterized PNG. Maximum legibility. Preserve stroke uniformity and geometric fidelity. [SUBJECT]: Kinetic display typography. Dynamic motion lines and high-contrast wordmark execution."
+  },
+  {
+    "id": "st1",
+    "type": "typography",
+    "category": "Street Art & Graffiti",
+    "name": "Bubble Throwie",
+    "description": "Thick, rounded graffiti letters with bold black outlines.",
+    "prompt": "[GLOBAL_DESIGN_LOCK]: Constructed geometry, mathematical precision, intentional composition. [TYPOGRAPHY_LAYER]: Perfect kerning, single-line geometric letterforms, solid flat backgrounds, no gradients. [SPATIAL_LAYER]: Centered composition, absolute alignment, symmetry maintained. [COLOR_LAYER]: High-contrast palette, solid colors only. [OUTPUT_CONSTRAINT]: Rasterized PNG. Maximum legibility. Preserve stroke uniformity and geometric fidelity. [SUBJECT]: Thick rounded graffiti letters. Bold uniform black outlines with solid flat color fills."
+  },
+  {
+    "id": "st2",
+    "type": "typography",
+    "category": "Street Art & Graffiti",
+    "name": "Sticker Slap",
+    "description": "Die-cut style wordmark with thick white border.",
+    "prompt": "[GLOBAL_DESIGN_LOCK]: Constructed geometry, mathematical precision, intentional composition. [TYPOGRAPHY_LAYER]: Perfect kerning, single-line geometric letterforms, solid flat backgrounds, no gradients. [SPATIAL_LAYER]: Centered composition, absolute alignment, symmetry maintained. [COLOR_LAYER]: High-contrast palette, solid colors only. [OUTPUT_CONSTRAINT]: Rasterized PNG. Maximum legibility. Preserve stroke uniformity and geometric fidelity. [SUBJECT]: Die-cut sticker style wordmark. Thick white border and solid flat vector shadows."
+  },
+  {
+    "id": "sk1",
+    "type": "typography",
+    "category": "Street King Handstyle",
+    "name": "Street King Handstyle",
+    "description": "Chisel-tip marker graffiti tag style, aggressive handstyle calligraphy.",
+    "prompt": "Vector graffiti handstyle. Sharp angular strokes. Flat high-contrast fills. PNG output."
+  },
+  {
+    "id": "sg1",
+    "type": "typography",
+    "category": "Slasher Grunge",
+    "name": "Slasher Grunge",
+    "description": "Distressed grunge typography, dry brush stroke texture.",
+    "prompt": "Vector grunge typography. High contrast white on black. Scratchy, raw, messy. PNG output."
+  },
+  {
+    "id": "te1",
+    "type": "typography",
+    "category": "High-Contrast Display",
+    "name": "Swiss Minimalist",
+    "description": "Bold, heavy grotesque typography with extreme kerning.",
+    "prompt": "[GLOBAL_DESIGN_LOCK]: Constructed geometry, mathematical precision, intentional composition. [TYPOGRAPHY_LAYER]: Perfect kerning, single-line geometric letterforms, solid flat backgrounds, no gradients. [SPATIAL_LAYER]: Centered composition, absolute alignment, symmetry maintained. [COLOR_LAYER]: High-contrast palette, solid colors only. [OUTPUT_CONSTRAINT]: Rasterized PNG. Maximum legibility. Preserve stroke uniformity and geometric fidelity. [SUBJECT]: Bold heavy grotesque typography. Extreme kerning on stark solid flat color."
+  },
+  {
+    "id": "te3",
+    "type": "typography",
+    "category": "High-Contrast Display",
+    "name": "Brutalist Type",
+    "description": "Monolithic, jagged letterforms inspired by raw concrete architecture.",
+    "prompt": "[GLOBAL_DESIGN_LOCK]: Constructed geometry, mathematical precision, intentional composition. [TYPOGRAPHY_LAYER]: Perfect kerning, single-line geometric letterforms, solid flat backgrounds, no gradients. [SPATIAL_LAYER]: Centered composition, absolute alignment, symmetry maintained. [COLOR_LAYER]: High-contrast palette, solid colors only. [OUTPUT_CONSTRAINT]: Rasterized PNG. Maximum legibility. Preserve stroke uniformity and geometric fidelity. [SUBJECT]: Monolithic jagged letterforms. Brutalist architectural inspiration with high contrast."
+  }
+]

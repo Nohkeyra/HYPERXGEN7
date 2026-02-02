@@ -1,0 +1,131 @@
+
+[
+  {
+    "id": "hx-t2",
+    "type": "monogram",
+    "category": "Signature Monograms",
+    "name": "Nano Monogram",
+    "description": "Micro-etched precision letterforms for high-end digital sealing.",
+    "prompt": "[GLOBAL_DESIGN_LOCK]: Constructed geometry, mathematical precision, intentional composition. [MONOGRAM_LAYER]: Letters interlock or share geometry, vertical/radial symmetry enforced, stroke weight range restricted. [SPATIAL_LAYER]: Centered composition, absolute alignment. [COLOR_LAYER]: High-contrast solid palette. [OUTPUT_CONSTRAINT]: Rasterized PNG. Geometric purity. [SUBJECT]: Micro-etched precision letterforms. High-fidelity geometric seal construction."
+  },
+  {
+    "id": "m1",
+    "type": "monogram",
+    "category": "Signature Monograms",
+    "name": "Linear Cipher",
+    "description": "Single-line weight interlaced letterforms, minimalist monogram.",
+    "prompt": "[GLOBAL_DESIGN_LOCK]: Constructed geometry, mathematical precision, intentional composition. [MONOGRAM_LAYER]: Letters interlock or share geometry, vertical/radial symmetry enforced, stroke weight range restricted. [SPATIAL_LAYER]: Centered composition, absolute alignment. [COLOR_LAYER]: High-contrast solid palette. [OUTPUT_CONSTRAINT]: Rasterized PNG. Geometric purity. [SUBJECT]: Single-line weight interlaced letterforms. Minimalist geometric monogram."
+  },
+  {
+    "id": "m2",
+    "type": "monogram",
+    "category": "Signature Monograms",
+    "name": "Bold Geometric Seal",
+    "description": "Heavy negative space typography, Bauhaus inspired.",
+    "prompt": "[GLOBAL_DESIGN_LOCK]: Constructed geometry, mathematical precision, intentional composition. [MONOGRAM_LAYER]: Letters interlock or share geometry, vertical/radial symmetry enforced, stroke weight range restricted. [SPATIAL_LAYER]: Centered composition, absolute alignment. [COLOR_LAYER]: High-contrast solid palette. [OUTPUT_CONSTRAINT]: Rasterized PNG. Geometric purity. [SUBJECT]: Heavy negative space typography forming a circular geometric seal. Bauhaus inspired."
+  },
+  {
+    "id": "m4",
+    "type": "monogram",
+    "category": "Signature Monograms",
+    "name": "Isometric Monolith",
+    "description": "3D isometric letterforms built from flat vector planes.",
+    "prompt": "[GLOBAL_DESIGN_LOCK]: Constructed geometry, mathematical precision, intentional composition. [MONOGRAM_LAYER]: Letters interlock or share geometry, vertical/radial symmetry enforced, stroke weight range restricted. [SPATIAL_LAYER]: Centered composition, absolute alignment. [COLOR_LAYER]: High-contrast solid palette. [OUTPUT_CONSTRAINT]: Rasterized PNG. Geometric purity. [SUBJECT]: 3D isometric letterforms built from flat vector planes. Extreme architectural precision."
+  },
+  {
+    "id": "m5",
+    "type": "monogram",
+    "category": "Experimental Monograms",
+    "name": "Monolithic Blocks",
+    "description": "Letters built from stacked geometric cubes, creating a bold architectural seal.",
+    "prompt": "[GLOBAL_DESIGN_LOCK]: Constructed geometry, mathematical precision, intentional composition. [MONOGRAM_LAYER]: Letters interlock or share geometry, vertical/radial symmetry enforced, stroke weight range restricted. [SPATIAL_LAYER]: Centered composition, absolute alignment. [COLOR_LAYER]: High-contrast solid palette. [OUTPUT_CONSTRAINT]: Rasterized PNG. Geometric purity. [SUBJECT]: Letters constructed from stacked geometric cubes. Extreme precision, uniform stroke weight, flat monochrome."
+  },
+  {
+    "id": "m6",
+    "type": "monogram",
+    "category": "Experimental Monograms",
+    "name": "Radial Monogram",
+    "description": "Letters arranged in perfect circular symmetry, like a seal or stamp.",
+    "prompt": "[GLOBAL_DESIGN_LOCK]: Constructed geometry, mathematical precision, intentional composition. [MONOGRAM_LAYER]: Letters interlock or share geometry, vertical/radial symmetry enforced, stroke weight range restricted. [SPATIAL_LAYER]: Centered composition, absolute alignment. [COLOR_LAYER]: High-contrast solid palette. [OUTPUT_CONSTRAINT]: Rasterized PNG. Geometric purity. [SUBJECT]: Letters arranged in a circular layout. Radial symmetry enforced. Uniform flat strokes, high-contrast palette."
+  },
+  {
+    "id": "m7",
+    "type": "monogram",
+    "category": "Experimental Monograms",
+    "name": "Wireframe Interlock",
+    "description": "Ultra-thin interlaced lines forming connected letterforms.",
+    "prompt": "[GLOBAL_DESIGN_LOCK]: Constructed geometry, mathematical precision, intentional composition. [MONOGRAM_LAYER]: Letters interlock or share geometry, vertical/radial symmetry enforced, stroke weight range restricted. [SPATIAL_LAYER]: Centered composition, absolute alignment. [COLOR_LAYER]: High-contrast solid palette. [OUTPUT_CONSTRAINT]: Rasterized PNG. Geometric purity. [SUBJECT]: Letters formed by thin interlaced lines. Continuous stroke, flat color, geometric purity."
+  },
+  {
+    "id": "m8",
+    "type": "monogram",
+    "category": "Experimental Monograms",
+    "name": "Ribbon Twist",
+    "description": "Flowing ribbon-like letters with consistent flat stroke weight.",
+    "prompt": "[GLOBAL_DESIGN_LOCK]: Constructed geometry, mathematical precision, intentional composition. [MONOGRAM_LAYER]: Letters interlock or share geometry, vertical/radial symmetry enforced, stroke weight range restricted. [SPATIAL_LAYER]: Centered composition, absolute alignment. [COLOR_LAYER]: High-contrast solid palette. [OUTPUT_CONSTRAINT]: Rasterized PNG. Geometric purity. [SUBJECT]: Letters formed as continuous ribbons. Smooth geometric twists, vertical/horizontal symmetry, flat color."
+  },
+  {
+    "id": "m9",
+    "type": "monogram",
+    "category": "Experimental Monograms",
+    "name": "Dot Matrix",
+    "description": "Letters composed entirely of small uniform dots, high contrast.",
+    "prompt": "[GLOBAL_DESIGN_LOCK]: Constructed geometry, mathematical precision, intentional composition. [MONOGRAM_LAYER]: Letters interlock or share geometry, vertical/radial symmetry enforced, stroke weight range restricted. [SPATIAL_LAYER]: Centered composition, absolute alignment. [COLOR_LAYER]: High-contrast solid palette. [OUTPUT_CONSTRAINT]: Rasterized PNG. Geometric purity. [SUBJECT]: Letters built from a precise matrix of uniform dots. Monochrome, geometric alignment enforced."
+  },
+  {
+    "id": "m10",
+    "type": "monogram",
+    "category": "Experimental Monograms",
+    "name": "Concentric Layers",
+    "description": "Letters embedded within concentric circular layers, symmetrical composition.",
+    "prompt": "[GLOBAL_DESIGN_LOCK]: Constructed geometry, mathematical precision, intentional composition. [MONOGRAM_LAYER]: Letters interlock or share geometry, vertical/radial symmetry enforced, stroke weight range restricted. [SPATIAL_LAYER]: Centered composition, absolute alignment. [COLOR_LAYER]: High-contrast solid palette. [OUTPUT_CONSTRAINT]: Rasterized PNG. Geometric purity. [SUBJECT]: Letters inside concentric circles. Each layer aligns geometrically. Flat monochrome, high-contrast."
+  },
+  {
+    "id": "m11",
+    "type": "monogram",
+    "category": "Experimental Monograms",
+    "name": "Compass Lock",
+    "description": "Letters radiate from a central point like a compass rose, symmetrical and flat.",
+    "prompt": "[GLOBAL_DESIGN_LOCK]: Constructed geometry, mathematical precision, intentional composition. [MONOGRAM_LAYER]: Letters interlock or share geometry, vertical/radial symmetry enforced, stroke weight range restricted. [SPATIAL_LAYER]: Centered composition, absolute alignment. [COLOR_LAYER]: High-contrast solid palette. [OUTPUT_CONSTRAINT]: Rasterized PNG. Geometric purity. [SUBJECT]: Letters radiating from central point. Radial symmetry, uniform stroke weight, no extra elements."
+  },
+  {
+    "id": "m12",
+    "type": "monogram",
+    "category": "Experimental Monograms",
+    "name": "Cellular Grid",
+    "description": "Letters composed of interlocking cellular units, geometric cohesion maintained.",
+    "prompt": "[GLOBAL_DESIGN_LOCK]: Constructed geometry, mathematical precision, intentional composition. [MONOGRAM_LAYER]: Letters interlock or share geometry, vertical/radial symmetry enforced, stroke weight range restricted. [SPATIAL_LAYER]: Centered composition, absolute alignment. [COLOR_LAYER]: High-contrast solid palette. [OUTPUT_CONSTRAINT]: Rasterized PNG. Geometric purity. [SUBJECT]: Letters formed from interlocking geometric cells. Flat, uniform strokes, precise negative space."
+  },
+  {
+    "id": "m13",
+    "type": "monogram",
+    "category": "Experimental Monograms",
+    "name": "Neural Weave",
+    "description": "Stroke connections form a network-like pattern between letters.",
+    "prompt": "[GLOBAL_DESIGN_LOCK]: Constructed geometry, mathematical precision, intentional composition. [MONOGRAM_LAYER]: Letters interlock or share geometry, vertical/radial symmetry enforced, stroke weight range restricted. [SPATIAL_LAYER]: Centered composition, absolute alignment. [COLOR_LAYER]: High-contrast solid palette. [OUTPUT_CONSTRAINT]: Rasterized PNG. Geometric purity. [SUBJECT]: Letters interconnected via a network-like stroke weave. Flat monochrome, symmetry enforced, geometric logic only."
+  },
+  {
+    "id": "m14",
+    "type": "monogram",
+    "category": "Experimental Monograms",
+    "name": "Fractal Glyph",
+    "description": "Letters repeated in smaller fractal patterns inside themselves.",
+    "prompt": "[GLOBAL_DESIGN_LOCK]: Constructed geometry, mathematical precision, intentional composition. [MONOGRAM_LAYER]: Letters interlock or share geometry, vertical/radial symmetry enforced, stroke weight range restricted. [SPATIAL_LAYER]: Centered composition, absolute alignment. [COLOR_LAYER]: High-contrast solid palette. [OUTPUT_CONSTRAINT]: Rasterized PNG. Geometric purity. [SUBJECT]: Each letter contains miniature repeating instances of itself. Flat, geometric precision, high-contrast monochrome."
+  },
+  {
+    "id": "m15",
+    "type": "monogram",
+    "category": "Experimental Monograms",
+    "name": "Negative Space Seal",
+    "description": "Letterforms defined entirely through negative space, high-contrast minimalism.",
+    "prompt": "[GLOBAL_DESIGN_LOCK]: Constructed geometry, mathematical precision, intentional composition. [MONOGRAM_LAYER]: Letters interlock or share geometry, vertical/radial symmetry enforced, stroke weight range restricted. [SPATIAL_LAYER]: Centered composition, absolute alignment. [COLOR_LAYER]: High-contrast solid palette. [OUTPUT_CONSTRAINT]: Rasterized PNG. Geometric purity. [SUBJECT]: Letters formed via negative space only. High contrast, flat strokes, symmetrical composition."
+  },
+  {
+    "id": "m16",
+    "type": "monogram",
+    "category": "Experimental Monograms",
+    "name": "Modular Puzzle",
+    "description": "Each letter is a modular piece that interlocks perfectly with others.",
+    "prompt": "[GLOBAL_DESIGN_LOCK]: Constructed geometry, mathematical precision, intentional composition. [MONOGRAM_LAYER]: Letters interlock or share geometry, vertical/radial symmetry enforced, stroke weight range restricted. [SPATIAL_LAYER]: Centered composition, absolute alignment. [COLOR_LAYER]: High-contrast solid palette. [OUTPUT_CONSTRAINT]: Rasterized PNG. Geometric purity. [SUBJECT]: Letters designed as modular puzzle pieces. Geometric precision, perfect alignment, flat monochrome."
+  }
+]
